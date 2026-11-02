@@ -31,6 +31,10 @@ A supporting document explaining how we decided to build a bespoke CMS-based sit
 
 How the project is broken down into milestones. Progress against these milestones is tracked in the [status reports](../status-reports/).
 
+### 4. [Architectural Design](architecture.md)
+
+How the project is designed to be implemented with database and data flow diagrams.
+
 ---
 
 ## Questions
