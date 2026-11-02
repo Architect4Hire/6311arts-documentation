@@ -10,11 +10,12 @@ PDF versions of the presentation decks created by **Architect4Hire** for the **[
 
 The decks are listed in the order they're best read: where the site started, why we chose the approach we did, and how the work is planned.
 
-| # | Deck | About |
-| --- | --- | --- |
-| 1 | [Site Audit](siteaudit.pdf) | An audit of the original 6311arts.com WordPress website |
-| 2 | [Vision](vision.pdf) | How we decided to build a bespoke CMS-based site instead of using WordPress |
-| 3 | [Milestones](milestones.pdf) | How the project is broken down |
+| #   | Deck                                   | About                                                                       |
+| --- | -------------------------------------- | --------------------------------------------------------------------------- |
+| 1   | [Site Audit](siteaudit.pdf)            | An audit of the original 6311arts.com WordPress website                     |
+| 2   | [Vision](vision.pdf)                   | How we decided to build a bespoke CMS-based site instead of using WordPress |
+| 3   | [Milestones](milestones.pdf)           | How the project is broken down                                              |
+| 4   | [Architecture Design](architecture.md) | How the project is designed to be implemented                               |
 
 ---
 
