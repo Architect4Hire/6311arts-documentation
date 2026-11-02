@@ -16,6 +16,15 @@ This repository is the central place for 6311arts to find project presentations,
 
 ---
 
+## 🔗 Important Links
+
+| Link | What it's for |
+| --- | --- |
+| [6311arts.com](https://6311arts.com) | The live 6311arts website |
+| [OneDrive Hot Folder](https://1drv.ms/f/c/f31c8eae81154c07/IgD5wVSQ6zjPQJZpeyfzKPMuAfindCvLfNjk5Bbi0Rk9pKs?e=taTdnH) | Shared OneDrive folder for exchanging project files
+
+---
+
 ## 📊 Decks
 
 PDF versions of the presentations delivered to 6311arts.
