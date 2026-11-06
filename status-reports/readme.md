@@ -25,9 +25,9 @@ Each status report gives a snapshot of the project at that point in time:
 
 Reports are listed newest first.
 
-| Date | Report | Summary |
+| Date | Report | Link |
 | --- | --- | --- |
-| *Coming soon* | | |
+| 11/6 | Milestone 1 (9 of 13 items complete) | [Status Report](1106.pdf) |
 
 ---
 
